@@ -34,8 +34,5 @@ public class Circle {
         return "Circle{" + radius + ", color=" + color + '}';
     }
 
-
-
-
 }
 

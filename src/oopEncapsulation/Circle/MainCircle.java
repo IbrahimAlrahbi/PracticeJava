@@ -12,7 +12,6 @@ public class MainCircle {
         c2.setColor("Blue");
         System.out.println("C2 Circumference = " + c2.getCircumference());
 
-
     }
 }
 
